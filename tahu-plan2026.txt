@@ -2,4 +2,4 @@ Plening UKM Tahungoding anggota produktif kedepanya:
 1. Bikin web personal UKM
 3. Bikin form pendaftaran anggota
 4. Penambahan Divisi GEN AI
-
+5. lomba FE
